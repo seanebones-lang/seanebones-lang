@@ -10,10 +10,10 @@ I work across the full stack with a focus on AI tooling, SaaS platforms, and cli
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Rust · TypeScript · Python · Swift · C++ · JavaScript · HTML · Dart |
-| **Web** | Next.js · React · Tailwind CSS · Sanity CMS · React Native |
-| **Backend / Infra** | Supabase · Drizzle ORM · Vercel · Axum |
-| **AI / LLM** | xAI Grok · MCP Protocol · Agentic systems · Hugging Face |
+| **Languages** | Rust · TypeScript · Python · Swift · Kotlin · C++ · JavaScript · HTML · Dart · Shell |
+| **Web / Mobile** | Next.js · React · TanStack · Tailwind CSS · Sanity CMS · React Native · SwiftUI / iOS · Flutter · Android (Kotlin) |
+| **Backend / Infra** | Supabase · Drizzle ORM · Vercel · Railway · Axum |
+| **AI / LLM** | xAI Grok · MCP Protocol · Agentic & multi-agent systems · RAG / vector search · Local-first LLMs · Hugging Face |
 
 ---
 
