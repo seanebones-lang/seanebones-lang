@@ -34,6 +34,6 @@ I work across the full stack with a focus on AI tooling, SaaS platforms, and cli
 | | |
 |---|---|
 | Website | [mothership-ai.com](https://mothership-ai.com) |
-| LinkedIn | [in/mothership-ai(https://linkedin.com/in/mothership-ai/) |
+| LinkedIn | [mothership-ai(https://linkedin.com/in/mothership-ai/) |
 | X / Twitter | [@nextelevendev](https://x.com/nextelevendev) |
 | Email | [info@mothership-ai.com](mailto:info@mothership-ai.com) |
