@@ -22,7 +22,6 @@ I work across the full stack with a focus on AI tooling, SaaS platforms, and cli
 | Project | Description | Stack |
 |---|---|---|
 | [harness](https://github.com/seanebones-lang/harness) | Terminal-based AI coding agent with MCP, semantic memory & TUI | Rust, xAI Grok, MCP |
-| [probable-fishstick](https://github.com/seanebones-lang/probable-fishstick) | Local-first RAG vault — ingests personal data, embeds on-device with a 0.6B model, queryable via local LLMs (Ollama) | Python, Vector DB, Local LLMs |
 | [InkLine-Pro](https://github.com/seanebones-lang/InkLine-Pro) | AI-powered mobile app generating tattoo linework from text or photos | React Native, xAI Grok, Hugging Face |
 | [TanStack-Wonderland](https://github.com/seanebones-lang/TanStack-Wonderland) | Dashboard demoing the full TanStack ecosystem (Router, Query, Table, Virtual, Form) | TypeScript, TanStack |
 | [NextEleven-Ink](https://github.com/seanebones-lang/NextEleven-Ink) | Tattoo artist booking & management SaaS platform | Next.js, TypeScript, Drizzle ORM |
