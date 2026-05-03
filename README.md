@@ -32,6 +32,8 @@ I work across the full stack with a focus on AI tooling, SaaS platforms, and cli
 | [Eleven-Term](https://github.com/seanebones-lang/Eleven-Term) | Eleven AI assistant, for your terminal | Python, CLI, LLM |
 | [Tab](https://github.com/seanebones-lang/Tab) | Guitar tablature generator | Python |
 
+> Additional native iOS (SwiftUI), Android (Kotlin), Flutter, and multi-agent / agentic AI projects live in private repos — available on request.
+
 ---
 
 ## Contact
