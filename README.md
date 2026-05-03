@@ -33,7 +33,7 @@ I work across the full stack with a focus on AI tooling, SaaS platforms, and cli
 
 | | |
 |---|---|
-| Website | [nextelevenstudios.online](https://nextelevenstudios.online) |
+| Website | [nextelevenstudios.online](https://mothership-ai.com) |
 | LinkedIn | [linkedin.com/in/seanmcdonnell](https://linkedin.com/in/seanmcdonnell) |
-| X / Twitter | [@seanebones](https://x.com/seanebones) |
+| X / Twitter | [@seanebones](https://x.com/nextelevendev) |
 | Email | [info@mothership-ai.com](mailto:info@mothership-ai.com) |
