@@ -1,45 +1,59 @@
 # Sean McDonnell
 
-**Co-Founder & CTO at [NextEleven](https://nextelevenstudios.online)** — building AI-powered products and full-stack web applications from Dallas, TX.
+**Founder & CTO at NextEleven** — building production-grade AI agents, tools, and SaaS platforms.
+
+Dallas, TX
 
 ---
 
 ## What I Build
 
-I work across the full stack with a focus on AI tooling, SaaS platforms, and client-facing web products.
+I specialize in **AI-native products** and high-leverage developer tooling. My work spans autonomous agents, local-first AI systems, and full-stack SaaS platforms — with a strong emphasis on real-world utility and clean execution.
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | Rust · TypeScript · Python · Swift · Kotlin · C++ · JavaScript · HTML · Dart · Shell |
-| **Web / Mobile** | Next.js · React · TanStack · Tailwind CSS · Sanity CMS · React Native · SwiftUI / iOS · Flutter · Android (Kotlin) |
-| **Backend / Infra** | Supabase · Drizzle ORM · Vercel · Railway · Axum |
-| **AI / LLM** | xAI Grok · MCP Protocol · Agentic & multi-agent systems · RAG / vector search · Local-first LLMs · Hugging Face |
+| Area              | Focus                                      |
+|-------------------|--------------------------------------------|
+| **AI Agents**     | Terminal-based coding agents, multi-agent systems, MCP tooling |
+| **AI Applications** | Tattoo design tools, RAG systems, creative AI workflows |
+| **SaaS & Web**    | Next.js platforms, booking systems, client-facing products |
+| **Mobile**        | React Native + native iOS/Android apps     |
+
+**Core Stack:** Rust · TypeScript · Python · Next.js · Supabase · xAI Grok · Local LLMs
 
 ---
 
-## Featured Projects
+## Key Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [harness](https://github.com/seanebones-lang/harness) | Terminal-based AI coding agent with MCP, semantic memory & TUI | Rust, xAI Grok, MCP |
-| [InkLine-Pro](https://github.com/seanebones-lang/InkLine-Pro) | AI-powered mobile app generating tattoo linework from text or photos | React Native, xAI Grok, Hugging Face |
-| [TanStack-Wonderland](https://github.com/seanebones-lang/TanStack-Wonderland) | Dashboard demoing the full TanStack ecosystem (Router, Query, Table, Virtual, Form) | TypeScript, TanStack |
-| [NextEleven-Ink](https://github.com/seanebones-lang/NextEleven-Ink) | Tattoo artist booking & management SaaS platform | Next.js, TypeScript, Drizzle ORM |
-| [web-part-two](https://github.com/seanebones-lang/web-part-two) | NextEleven marketing site with Sanity Studio & AI chat widget | Next.js 15, React 19, Sanity, xAI Grok |
-| [trailerguard](https://github.com/seanebones-lang/trailerguard) | Mobile app for trailer security and tracking | React Native, TypeScript, Supabase |
-| [linework](https://github.com/seanebones-lang/linework) | Railway-deployed TypeScript service for linework generation | TypeScript, Railway |
-| [Eleven-Term](https://github.com/seanebones-lang/Eleven-Term) | Eleven AI assistant, for your terminal | Python, CLI, LLM |
-| [Tab](https://github.com/seanebones-lang/Tab) | Guitar tablature generator | Python |
+### [harness](https://github.com/seanebones-lang/harness)
+Terminal-based AI coding agent built in Rust. Features MCP support, semantic memory, multi-provider routing (xAI, Anthropic, Ollama), and a high-performance TUI. Designed for serious engineering workflows.
 
-> Additional native iOS (SwiftUI), Android (Kotlin), Flutter, and multi-agent / agentic AI projects live in private repos — available on request.
+### [InkLine-Pro](https://github.com/seanebones-lang/InkLine-Pro)
+AI-powered React Native app that generates high-quality tattoo linework from text descriptions or reference photos using Grok + Hugging Face models.
+
+### [trailerguard](https://github.com/seanebones-lang/trailerguard)
+Mobile platform for trailer/fleet operations with BLE tire monitoring, immutable mileage tracking, and real-time alerting. Built with React Native + Supabase.
+
+### [probable-fishstick](https://github.com/seanebones-lang/probable-fishstick)
+Local-first Personal RAG system. Ingests personal files (emails, chats, documents), embeds with lightweight CPU models, and enables natural language queries against your own data using Ollama.
+
+### [web-part-two](https://github.com/seanebones-lang/web-part-two)
+NextEleven marketing site with Sanity CMS and an integrated AI chat widget powered by Grok.
+
+Additional production client work and private AI/agent projects available upon request.
+
+---
+
+## Currently Building
+
+- **harness** — Advancing the next generation of local + cloud coding agents
+- Tattoo industry AI tooling (linework generation, artist platforms)
+- Personal knowledge + RAG infrastructure
 
 ---
 
 ## Contact
 
-| | |
-|---|---|
-| Website | [mothership-ai.com](https://mothership-ai.com) |
-| LinkedIn | [mothership-ai](https://linkedin.com/in/mothership-ai/) |
-| X / Twitter | [@nextelevendev](https://x.com/nextelevendev) |
-| Email | [info@mothership-ai.com](mailto:info@mothership-ai.com) |
+- **Website**: [nextelevenstudios.online](https://nextelevenstudios.online)
+- **X / Twitter**: [@nextelevendev](https://x.com/nextelevendev)
+- **Email**: sean@nextelevenstudios.online
+
+Open to serious conversations around AI tooling, agent infrastructure, and product collaborations.
