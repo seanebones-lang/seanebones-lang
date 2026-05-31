@@ -32,7 +32,7 @@ AI-powered React Native application that generates professional tattoo linework 
 ### [trailerguard](https://github.com/seanebones-lang/trailerguard)
 Mobile platform for trailer and fleet operations featuring BLE tire pressure monitoring, immutable mileage tracking, and real-time alerting. Built with React Native + Supabase.
 
-### [probable-fishstick](https://github.com/seanebones-lang/probable-fishstick)
+### [Personal RAG](https://github.com/seanebones-lang/https:/personal-RAG)
 Local-first Personal RAG system. Ingests personal data (emails, chats, documents, code), embeds with lightweight CPU models, and enables natural language querying using Ollama.
 
 ### [web-part-two](https://github.com/seanebones-lang/web-part-two)
