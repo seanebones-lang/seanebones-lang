@@ -24,7 +24,7 @@ I build backend systems, retrieval tools, developer tooling, and workflow softwa
 
 ### Confidential consulting — two delivered software systems
 
-In 2025, I earned approximately **$8,000** delivering two systems through a digital product firm:
+In 2025, I designed, built, and shipped two systems through a digital product firm:
 
 - A multi-location dealership parts and inventory workflow system
 - An ethical-AI wellness ecosystem with retrieval, orchestration, and safety controls
