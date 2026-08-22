@@ -1,68 +1,62 @@
 # Sean McDonnell
 
-**Founder & CTO · NextEleven LLC**
+**Software Engineer · Python · Rust · TypeScript · Backend and Applied AI**
 
-I build production AI systems that operators actually run — agent runtimes, private-data retrieval, and dealership software with a human gate when money or inventory is on the line.
+Mansfield, Texas · Remote preferred · Open to Dallas–Fort Worth hybrid or on-site roles
 
-Mansfield, TX · US · Remote
+[Portfolio](https://www.mothership-ai.com/) · [LinkedIn](https://www.linkedin.com/in/mothership-ai) · [Email](mailto:nextelevenstudios@gmail.com)
 
-[mothership-ai.com](https://www.mothership-ai.com/) · [LinkedIn](https://www.linkedin.com/in/mothership-ai) · [X](https://x.com/NextElevenDev) · [nextelevenstudios@gmail.com](mailto:nextelevenstudios@gmail.com)
+I build backend systems, retrieval tools, developer tooling, and workflow software. My path into paid software work is recent; the technical work is not. I care about explicit safety gates, measurable behavior, useful documentation, and software that tells the truth when something is not ready.
 
----
+## Selected engineering work
 
-## What I ship
+### [Harness](https://github.com/seanebones-lang/harness) — Rust coding-agent runtime
 
-Four products, same bar: real software, honest scope, fixed-price path when we sell it.
+- Multi-provider model routing, sandboxed tools, worker coordination, MCP, sessions, and cost tracking
+- Cross-platform release artifacts and automated format, lint, build, test, and supply-chain checks
+- Public beta / proof of concept; proprietary source-available project
 
-| | Product | What it is | Links |
-|---|---------|------------|-------|
-| 1 | **NextEleven Harness** | Rust coding-agent runtime — multi-provider models, sandboxed tools, swarm workers, MCP, sessions, cost tracking. Public beta. Proprietary. | [Site](https://www.mothership-ai.com/harness/) · [Repo](https://github.com/seanebones-lang/harness) |
-| 2 | **Personal RAG** | Local-first private document search. Ingest → embed → retrieve → ask with citations. Optional Ollama. Open source (MIT). | [Site](https://www.mothership-ai.com/rag/) · [Repo](https://github.com/seanebones-lang/personal-RAG) |
-| 3 | **Parts Inventory System** | Multi-rooftop parts desk: plain-language counter search, email classify → draft → approve, inventory/orders/transfers. Human green/yellow/red gate. | [Site](https://www.mothership-ai.com/parts/) · [Repo](https://github.com/seanebones-lang/parts) |
-| 4 | **Lot Management** | Offline vehicle retail desk for independent dealers — VIN inventory, CRM, sales, PDF invoices, EN/ES/AR. One-time purchase per machine. | [Site](https://www.mothership-ai.com/lot/) · [Repo](https://github.com/seanebones-lang/Car-Lot) |
+### [PersonalRAGVault](https://github.com/seanebones-lang/personal-RAG) — local-first retrieval system
 
-**Company site (SoT):** [www.mothership-ai.com](https://www.mothership-ai.com/)  
-**Public static host:** [seanebones-lang/nexteleven-web](https://github.com/seanebones-lang/nexteleven-web)
+- Python CLI and FastAPI service for ingesting and searching personal files locally
+- Hybrid vector + FTS5 retrieval, reranking, citations, evaluation metrics, and streaming responses
+- MIT licensed, documented for contributors, and tested across supported Python versions
 
----
+### Confidential consulting — two delivered software systems
 
-## How I work
+In 2025, I earned approximately **$8,000** delivering two systems through a digital product firm:
 
-- **Stay through production** — design, ship, watch it run, fix what breaks. No handoff after the demo.
-- **Unsafe paths stay closed** — if a payment, stock move, or customer message cannot be verified, the system stops and asks a person.
-- **Build once, reuse** — agent and retrieval pieces are maintained infrastructure, not throwaway scripts.
-- **Honest scope** — what is not ready stays off. No faked integrations.
+- A multi-location dealership parts and inventory workflow system
+- An ethical-AI wellness ecosystem with retrieval, orchestration, and safety controls
 
-Engagement shape on paid work: 20-minute call → discovery → fixed-price pilot → go/no-go with numbers.
+Client and product names are intentionally withheld. I can discuss my architecture, implementation decisions, and lessons learned without exposing confidential details.
 
----
+## How I engineer
 
-## Stack
+- **Fail closed around consequential actions.** Payments, inventory changes, and outbound messages require explicit verification or human approval.
+- **Measure the system.** Retrieval quality, costs, failures, and operational limits should be visible instead of implied.
+- **Build for the next person.** Tests, setup instructions, architecture notes, and honest status labels are part of the product.
+- **Use AI as leverage, not camouflage.** I remain responsible for design choices, verification, and the result.
 
-**Rust** · **TypeScript** · **Python** · Electron · local LLMs (Ollama) · multi-provider agents (Anthropic / xAI / OpenAI / …) · MCP · RAG / Chroma · SQLite · dealership ops systems
+## Background and roles
 
----
+Before pursuing software professionally, I spent decades in client service and eight years owning and operating a business. That experience shaped how I think about users, constraints, reliability, and communication.
 
-## Pricing (public, current)
+I am currently seeking software engineering work in:
 
-**Parts** — pilot **$1,500** (credited to first 3 production months) · **$495/mo** first rooftop · **$195/mo** each rooftop after · Growth 3–5 roofs **$799/mo**  
-Full card: [Parts rate card](https://www.mothership-ai.com/parts/NextEleven_Parts_Rate_Card.pdf)
+- Backend and API development
+- Applied AI, retrieval, and evaluation
+- Developer tools and internal workflow systems
+- Technical implementation and integrations
 
-**Lot** — **$495** first machine installed · **$195** each machine after · support **$200/hr** as needed · no monthly fee  
-Full card: [Lot rate card](https://www.mothership-ai.com/lot/NextEleven_Lot_Rate_Card.pdf)
+Remote is ideal, and I am open to hybrid or on-site work in the Dallas–Fort Worth area.
 
-**Harness / RAG** — open install from GitHub; commercial hardening and custom desks by SOW.
+## Core stack
 
----
+**Python · Rust · TypeScript · FastAPI · PostgreSQL · Redis · SQLite · RAG / information retrieval · REST APIs · Docker · GitHub Actions**
 
 ## Contact
 
-| | |
-|--|--|
-| Email | [nextelevenstudios@gmail.com](mailto:nextelevenstudios@gmail.com) |
-| Web | [www.mothership-ai.com](https://www.mothership-ai.com/) |
-| LinkedIn | [mothership-ai](https://www.linkedin.com/in/mothership-ai) |
-| X | [@NextElevenDev](https://x.com/NextElevenDev) |
-| GitHub | [seanebones-lang](https://github.com/seanebones-lang) |
-
-Roles, contracts, or a desk pilot — say which. I usually reply the same day.
+- [nextelevenstudios@gmail.com](mailto:nextelevenstudios@gmail.com)
+- [linkedin.com/in/mothership-ai](https://www.linkedin.com/in/mothership-ai)
+- [mothership-ai.com](https://www.mothership-ai.com/)
