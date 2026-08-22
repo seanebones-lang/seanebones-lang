@@ -19,7 +19,7 @@ I build backend systems, retrieval tools, developer tooling, and workflow softwa
 ### [PersonalRAGVault](https://github.com/seanebones-lang/personal-RAG) — local-first retrieval system
 
 - Python CLI and FastAPI service for ingesting and searching personal files locally
-- Hybrid vector + FTS5 retrieval, reranking, citations, evaluation metrics, and streaming responses
+- Hybrid vector + keyword retrieval, reranking, citations, evaluation metrics, and streaming responses
 - MIT licensed, documented for contributors, and tested across supported Python versions
 
 ### Confidential consulting — two delivered software systems
