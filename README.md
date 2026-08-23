@@ -30,7 +30,7 @@ The linked Apple developer page independently verifies publication. I do not pre
 
 - Python CLI and FastAPI service for ingesting and searching personal files locally
 - Hybrid vector and keyword retrieval, reranking, citations, evaluation metrics, REST/SSE access, and optional local-model support
-- MIT licensed, documented, and tested across supported Python versions
+- [Current green CI](https://github.com/seanebones-lang/personal-RAG/actions/runs/32657745331) across supported Python versions · MIT licensed and documented
 
 ### Confidential contract work — two completed systems
 
