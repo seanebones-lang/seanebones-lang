@@ -22,9 +22,9 @@ The linked Apple developer page independently verifies publication. I do not pre
 
 ### [Harness](https://github.com/seanebones-lang/harness) — Rust coding-agent runtime
 
-- Terminal-native coding-agent proof of concept with multi-provider routing, sandboxed tools, worker coordination, MCP, sessions, persistence, and cost tracking
-- A 363-test binary suite plus an 11-job GitHub Actions pipeline covering Ubuntu, macOS, Windows, strict linting, release builds, installers, supply-chain checks, and related release gates
-- [Current green cross-platform CI](https://github.com/seanebones-lang/harness/actions/runs/32588706320) · public beta / proof of concept · proprietary source-available project
+- Terminal-native coding-agent proof of concept with an exact user-owned provider/model route, 18 built-in provider configurations plus custom OpenAI chat-completions-compatible endpoints, sandboxed tools, worker coordination, MCP, sessions, persistence, and cost tracking
+- A 376-test binary suite on current main plus an 11-job GitHub Actions pipeline covering Ubuntu, macOS, Windows, strict linting, release builds, installers, supply-chain checks, and related release gates
+- [Current green cross-platform CI](https://github.com/seanebones-lang/harness/actions/runs/32784381876) · public beta / proof of concept · proprietary source-available project; v1.3.0 is the latest tag and post-tag behavior is documented on main
 
 ### [PersonalRAGVault](https://github.com/seanebones-lang/personal-RAG) — local-first retrieval system
 
