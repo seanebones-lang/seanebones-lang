@@ -6,7 +6,7 @@ Mansfield, Texas · Remote U.S. preferred · Open to Dallas–Fort Worth hybrid 
 
 [Portfolio](https://www.mothership-ai.com/) · [App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [LinkedIn](https://www.linkedin.com/in/mothership-ai) · [Résumé](https://www.mothership-ai.com/downloads/Sean-McDonnell-Technical-Support-Implementation-Engineer-Resume.pdf) · [Email](mailto:nextelevenstudios@gmail.com)
 
-I am a self-directed software engineer who turns unclear requirements and difficult failures into shipped, tested, and documented products. My record includes **12 applications published on Apple's App Store**, two completed confidential client systems, public Rust and Python projects, and 27 years of high-trust client service.
+I am a self-directed software engineer who turns unclear requirements and difficult failures into shipped, tested, and documented products. My record includes **13 applications published on Apple's App Store**, two completed confidential client systems, public Rust and Python projects, and 27 years of high-trust client service.
 
 I am looking for a team where I can combine hands-on engineering with troubleshooting, implementation, customer understanding, and clear technical communication.
 
