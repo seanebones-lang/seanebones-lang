@@ -43,6 +43,7 @@ Client and product names are intentionally withheld. I can discuss the business 
 ## What I bring
 
 - **End-to-end delivery:** requirements, architecture, implementation, testing, documentation, release work, and review remediation
+- **Customer-embedded outcome delivery:** take an ambiguous customer problem, reduce uncertainty, and carry a verified working system to the boundary where it is actually used
 - **Technical troubleshooting:** reproduce difficult behavior, inspect logs and state, isolate root causes, repair failures, and verify the result without weakening the quality gate
 - **Operator and customer judgment:** nearly three decades of requirements discovery, expectation setting, difficult conversations, delivery, and aftercare
 - **Responsible systems:** explicit failure handling, human review around consequential actions, visible limitations, and measurable behavior
@@ -53,16 +54,18 @@ Client and product names are intentionally withheld. I can discuss the business 
 - **Languages:** Python · Rust · TypeScript/JavaScript · Swift · Kotlin · Dart · SQL · Bash
 - **Apple and mobile:** SwiftUI · UIKit · StoreKit 2 · WidgetKit · XCTest · Jetpack Compose · Flutter · React Native
 - **Backend and data:** FastAPI · REST APIs · PostgreSQL/pgvector · SQLite · Redis · Celery · ChromaDB
-- **AI and retrieval:** LLM APIs · tool calling · MCP · embeddings · RAG ingestion · hybrid retrieval · reranking · citations · evaluation
-- **Frontend and delivery:** React · Next.js · Docker · Git · GitHub Actions · automated testing · CI · release documentation
+- **AI and retrieval:** LLM APIs · tool calling · MCP · embeddings · RAG ingestion · hybrid retrieval · reranking · citations · retrieval evaluation · reciprocal-rank fusion · graph/relationships
+- **Systems and orchestration:** provider/model routing · multi-agent coordination · tool boundaries · parallel workers · fail-closed design · idempotency · session persistence · observability/tracing
+- **Frontend and delivery:** React · Next.js · Docker · Git · GitHub Actions · automated testing · CI · release documentation · runbooks
 
 ## Roles I am targeting
 
-1. Technical Support Engineer for software, APIs, developer tools, mobile platforms, or AI products
-2. Implementation, Integration, Solutions, or Customer Engineer
-3. iOS, SwiftUI, Apple Platform, Mobile Product, or Mobile Developer Support Engineer
-4. Python Backend or Backend Software Engineer
-5. Applied AI, RAG, Retrieval, AI Integration, Developer Tools, or Automation Engineer
+1. Forward Deployed Engineer, AI Solutions, AI Implementation, or Applied AI customer engineer
+2. Technical Support Engineer for software, APIs, developer tools, mobile platforms, or AI products
+3. Implementation, Integration, Solutions, or Customer Engineer
+4. iOS, SwiftUI, Apple Platform, Mobile Product, or Mobile Developer Support Engineer
+5. Python Backend or Backend Software Engineer
+6. Applied AI, RAG, Retrieval, AI Integration, Developer Tools, or Automation Engineer
 
 Remote is ideal. I am also open to the right hybrid or on-site role in the Dallas–Fort Worth area.
 
