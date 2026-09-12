@@ -12,7 +12,7 @@ I am looking for a team where I can combine hands-on engineering with troublesho
 
 ## Selected evidence
 
-### [Apple platform products](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) — 12 published applications
+### [Apple platform products](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) — 13 published applications
 
 - Took applications from product definition through implementation, App Store metadata, privacy and platform requirements, review feedback, versioning, and public release
 - Native work includes Swift, SwiftUI, UIKit, StoreKit 2, WidgetKit, XCTest, Swift concurrency, URLSession, notifications, location, maps, audio, App Intents, and secure storage
