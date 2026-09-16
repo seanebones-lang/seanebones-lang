@@ -77,4 +77,4 @@ I have worked with computers since childhood and made software my primary profes
 
 - [nextelevenstudios@gmail.com](mailto:nextelevenstudios@gmail.com)
 - [linkedin.com/in/mothership-ai](https://www.linkedin.com/in/mothership-ai)
-- [mothership-ai.com](https://www.mothership-ai.com/)
+- [nexteleven.dev](https://nexteleven.dev)
