@@ -47,7 +47,7 @@ Built a TypeScript/Next.js application, agent API, CLI, and local MCP adapter ar
 
 ### [Android products on Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882) — public Android releases
 
-**Two applications published on Google Play through NextElevenStudios:** [Steady: One Small Step](https://play.google.com/store/apps/details?id=dev.nexteleven.steady) and [Note to Self: Capture & Keep](https://play.google.com/store/apps/details?id=dev.nexteleven.nts). These are publicly available store releases. Publication establishes availability, not adoption or commercial results.
+**Three applications published on Google Play through NextElevenStudios:** [Steady: One Small Step](https://play.google.com/store/apps/details?id=dev.nexteleven.steady), [Note to Self: Capture & Keep](https://play.google.com/store/apps/details?id=dev.nexteleven.nts), and [Circuit Breaker: Kill Switch](https://play.google.com/store/apps/details?id=dev.nexteleven.circuitbreaker). These are publicly available store releases. Publication establishes availability, not adoption or commercial results.
 
 ## Additional engineering and client work
 
