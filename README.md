@@ -4,9 +4,9 @@
 
 Mansfield, Texas / Dallas–Fort Worth · Available for remote consulting and software projects
 
-[NextEleven](https://www.nexteleven.dev/) · [Discuss a project](mailto:nextelevenstudios@gmail.com?subject=Software%20project%20inquiry) · [App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497)
+[NextEleven](https://www.nexteleven.dev/) · [Discuss a project](mailto:nextelevenstudios@gmail.com?subject=Software%20project%20inquiry) · [Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882)
 
-I help businesses turn an unclear requirement, a broken workflow, or an unfinished application into a verified working system. My work spans backend services, business software, websites, Apple applications, and applied AI.
+I help businesses turn an unclear requirement, a broken workflow, or an unfinished application into a verified working system. My work spans backend services, business software, websites, Apple and Android applications, and applied AI.
 
 You work directly with me: understanding the problem, choosing the approach, building or repairing the software, checking its behavior, and documenting how to run it.
 
@@ -44,6 +44,10 @@ Built a TypeScript/Next.js application, agent API, CLI, and local MCP adapter ar
 ### [Apple platform products](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) — repeated public release
 
 **13 applications published on Apple's App Store through NextEleven.** My work includes product definition, implementation, platform and privacy requirements, review feedback, versioning, and release across iPhone, iPad, and Mac. Publication establishes the release record; it does not establish adoption or commercial results.
+
+### [Android products on Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882) — public Android releases
+
+**Two applications published on Google Play through NextElevenStudios:** [Steady: One Small Step](https://play.google.com/store/apps/details?id=dev.nexteleven.steady) and [Note to Self: Capture & Keep](https://play.google.com/store/apps/details?id=dev.nexteleven.nts). These are publicly available store releases. Publication establishes availability, not adoption or commercial results.
 
 ## Additional engineering and client work
 
