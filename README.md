@@ -15,7 +15,7 @@ You work directly with me: understanding the problem, choosing the approach, bui
 - **AI consulting and implementation:** assess where AI can help a workflow, define the data and integration requirements, and build document search, source-grounded assistants, tool integrations, or workflows with human review. Establish evaluation cases before treating a useful demonstration as a dependable system.
 - **Custom software and integrations:** build APIs, internal tools, inventory and order workflows, operator dashboards, customer portals, and business websites. Connect existing systems around a defined operational need.
 - **Software investigation and repair:** reproduce failures, inspect logs and state, isolate causes, repair incomplete behavior, and improve tests, CI, deployment checks, and handoff documentation.
-- **Apple application development:** build and improve iPhone, iPad, and Mac applications, including platform integration, testing, App Store review remediation, and release work.
+- **Apple and Android application development:** build and improve iPhone, iPad, Mac and Android applications, including platform integration, testing, store review remediation and release work.
 
 An engagement can start with a focused assessment, a repair, or a defined build. We agree on the scope, acceptance criteria, and next decision before expanding the work.
 
@@ -41,13 +41,11 @@ Built a provider-neutral runtime with explicit model routing, repository tools, 
 
 Built a TypeScript/Next.js application, agent API, CLI, and local MCP adapter around pinned source, provenance, license notices, and reviewable component briefs. Controlled evaluations include fresh consumer integrations and recorded failures. A working development prototype; independent usefulness and demand remain unproven.
 
-### [Apple platform products](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) — repeated public release
+### Published apps on Apple’s App Store and Google Play
 
-**13 applications published on Apple's App Store through NextEleven.** My work includes product definition, implementation, platform and privacy requirements, review feedback, versioning, and release across iPhone, iPad, and Mac. Publication establishes the release record; it does not establish adoption or commercial results.
+[Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882)
 
-### [Android products on Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882) — public Android releases
-
-**Three applications published on Google Play through NextElevenStudios:** [Steady: One Small Step](https://play.google.com/store/apps/details?id=dev.nexteleven.steady), [Note to Self: Capture & Keep](https://play.google.com/store/apps/details?id=dev.nexteleven.nts), and [Circuit Breaker: Kill Switch](https://play.google.com/store/apps/details?id=dev.nexteleven.circuitbreaker). These are publicly available store releases. Publication establishes availability, not adoption or commercial results.
+**Coming soon:** Dinnlume and Pairtrace, both submitted for Google Play review.
 
 ## Additional engineering and client work
 
