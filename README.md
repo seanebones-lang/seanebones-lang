@@ -45,7 +45,7 @@ Built a TypeScript/Next.js application, agent API, CLI, and local MCP adapter ar
 
 [Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882)
 
-**Coming soon:** Dinnlume and Pairtrace, both submitted for Google Play review.
+As checked on 2 November 2026: **12 current US App Store listings and 12 public US Google Play listings**, including Dinnlume, Pairtrace and Circuit Breaker. Counts describe store publication, not downloads, adoption or revenue. Availability varies by region and device.
 
 ## Additional engineering and client work
 
