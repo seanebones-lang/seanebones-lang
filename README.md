@@ -4,7 +4,7 @@
 
 Mansfield, Texas / Dallas–Fort Worth · Available for remote consulting and software projects
 
-[NextEleven](https://www.nexteleven.dev/) · [Discuss a project](mailto:nextelevenstudios@gmail.com?subject=Software%20project%20inquiry) · [Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882)
+[NextEleven](https://www.nexteleven.dev/) · [Discuss a project](mailto:hello@nexteleven.dev?subject=Software%20project%20inquiry) · [Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882)
 
 I help businesses turn an unclear requirement, a broken workflow, or an unfinished application into a verified working system. My work spans backend services, business software, websites, Apple and Android applications, and applied AI.
 
@@ -29,7 +29,7 @@ Delivered a production web presence with English and Spanish journeys, separate 
 
 Built a Python CLI, FastAPI service, and local interface for ingesting and searching files. The implementation includes keyword/vector retrieval, reciprocal-rank fusion, reranking, citations, REST/SSE access, and retrieval evaluation. Storage and retrieval run locally; external generation is an explicit configuration choice. MIT licensed.
 
-### [Deadbolt](https://github.com/seanebones-lang/deadbolt) — execution controls for software agents
+### [DeadBolt](https://github.com/seanebones-lang/deadbolt) — execution controls for software agents
 
 Built a Rust admission gate with embedded, HTTP, and stdio MCP integration paths, operator revocation, and structured evidence. Published native releases for macOS, Linux, and Windows. Documented consumer tests exercise permitted and denied actions, outages, and recovery. Enforcement depends on the application's trusted dispatcher checking before execution. Apache-2.0 licensed.
 
@@ -72,4 +72,4 @@ Before making software my primary professional direction in 2025, I spent 27 yea
 
 Tell me what needs to work better, what you have today, and what a successful result would look like. You do not need a finished specification to begin.
 
-**[nextelevenstudios@gmail.com](mailto:nextelevenstudios@gmail.com?subject=Software%20project%20inquiry)** · [NextEleven](https://www.nexteleven.dev/) · Mansfield, Texas / Dallas–Fort Worth
+**[hello@nexteleven.dev](mailto:hello@nexteleven.dev?subject=Software%20project%20inquiry)** · [NextEleven](https://www.nexteleven.dev/) · Mansfield, Texas / Dallas–Fort Worth
