@@ -4,7 +4,7 @@
 
 Mansfield, Texas / Dallas–Fort Worth · Available for remote consulting and software projects
 
-[NextEleven](https://www.nexteleven.dev/) · [Discuss a project](mailto:hello@nexteleven.dev?subject=Software%20project%20inquiry) · [Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882)
+[NextEleven](https://www.nexteleven.dev/) · [Mothership](https://nexteleven.tech/) · [Discuss a project](mailto:hello@nexteleven.dev?subject=Software%20project%20inquiry) · [Apple App Store](https://apps.apple.com/us/developer/sean-mcdonnell/id1839832497) · [Google Play](https://play.google.com/store/apps/dev?id=7608447669826597882) · [YouTube](https://www.youtube.com/@nextelevenllc) · [X](https://x.com/NextElevenDev) · [LinkedIn](https://www.linkedin.com/in/mothership-ai)
 
 I help businesses turn an unclear requirement, a broken workflow, or an unfinished application into a verified working system. My work spans backend services, business software, websites, Apple and Android applications, and applied AI.
 
